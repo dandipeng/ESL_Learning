@@ -28,6 +28,9 @@ Ex. 3.23, Ex. 3.24 Completed.
 
 [Simulation of Figure 3.18](ESL-R/Simulation-Figure-3.18.R)
 
+![Figure 3.18 (1)](ESL-R/rho_05.png)
+![Figure 3.18 (2)](ESL-R/rho_-05.png)
+
 
 ## Chapter 4 - Linear Methods for Classification
 
@@ -37,6 +40,10 @@ Ex. 3.23, Ex. 3.24 Completed.
 **4.3** Figure Simulation
 
 [Simulation of Figure 4.2 and Figure 4.3](ESL-R/Simulation-Figure-4.2&4.3.R)
+
+![Figure 4.2](ESL-R/fig-4-2.png)
+![Figure 4.3 Left](ESL-R/fig-4-3-left.png)
+![Figure 4.3 Right](ESL-R/fig-4-3-right.png)
 
 **4.4** Practice on Real Data
 

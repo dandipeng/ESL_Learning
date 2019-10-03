@@ -14,10 +14,12 @@ C3 <- mvrnorm(n = N, c(mu_s[3],mu_s[3]),Sigma = sigma_s)
 # C2 <- cbind(C2, rep(2,N))
 # C3 <- cbind(C3, rep(3,N))
 
+png("fig-4-2.png")
 plot(C1[,1],C1[,2], pch='1',col = 'orange',
      xlim = c(min(C1[,1]), max(C3[,1])), ylim=c(min(C1[,2]),max(C3[,2])))
 points(C2[,1],C2[,2], pch='2', col = 'lightblue')
 points(C3[,1],C3[,2], pch='3', col = 'darkgreen')
+dev.off()
 
 # Figure 4.3
 ## project X onto the line joining the three centroids
